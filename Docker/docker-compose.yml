@@ -1,0 +1,13 @@
+version: "3.8"
+
+name: sportsbet
+
+services:
+  SportsBet.api:
+    image: sportsbetapi
+    build:
+        context: .
+        dockerfile: Dockerfile
+    container_name: sportsbetapi
+    ports:
+      - 8080:80

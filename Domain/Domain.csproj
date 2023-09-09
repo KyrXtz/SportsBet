@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>SportsBet.Domain</RootNamespace>
+		<AssemblyName>SportsBet.Domain</AssemblyName>
+		<Copyright>Copyright © 2023</Copyright>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Ardalis.GuardClauses" Version="4.0.1" />
+		<PackageReference Include="Ardalis.SmartEnum" Version="7.0.0" />
+		<PackageReference Include="Ardalis.Specification" Version="6.1.0" />
+		<PackageReference Include="IdGen" Version="3.0.3" />
+		<PackageReference Include="MediatR" Version="12.0.1" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
+	<ItemGroup>
+		<AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
+			<_Parameter1>TestDefinitions</_Parameter1>
+		</AssemblyAttribute>
+	</ItemGroup>
+
+</Project>
