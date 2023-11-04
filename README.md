@@ -4,7 +4,8 @@
   <img src="https://github.com/KyrXtz/SportsBet/blob/master/Images/1.jpg" width="400" />
 </p>
 
-SportsBet serves as the foundation for a dynamic backend platform that seamlessly integrates provider data and statistics, delivering a user-friendly experience while simultaneously remaining business competitive. It harnesses the capabilities of .NET 7 and leverages a robust Hexagonal/Onion architecture with microservices at its core.
+**SportsBet** serves as the foundation for a dynamic **backend** platform that seamlessly **integrates** provider **data and statistics**, delivering a **user-friendly** experience while simultaneously remaining **business competitive**. It harnesses the capabilities of **.NET 7** and leverages a robust **Hexagonal/Onion architecture** with **microservices** at its core.
+
 ## Solution features
 <p align="center">
   <img src="https://github.com/KyrXtz/SportsBet/blob/master/Images/5.png" width="200" />
