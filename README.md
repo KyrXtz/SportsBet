@@ -1,4 +1,4 @@
-# SportsBet: A Higly-Available Resilient Betting Technology Solution
+# SportsBet: A Highly-Available Resilient Betting Technology Solution
 
 <p align="center">
   <img src="https://github.com/KyrXtz/SportsBet/blob/master/Images/1.jpg" width="400" />
